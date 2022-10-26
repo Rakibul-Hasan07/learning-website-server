@@ -1,0 +1,30 @@
+[
+    {
+      "id": "01",
+      "name": "Web Development"
+    },
+    {
+      "id": "02",
+      "name": "App Development"
+    },
+    {
+      "id": "03",
+      "name": "UI/UX Design"
+    },
+    {
+      "id": "04",
+      "name": "Wordpress Development"
+    },
+    {
+      "id": "05",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "06",
+      "name": "Basic Programming"
+    },
+    {
+      "id": "07",
+      "name": "All News"
+    }
+  ]
