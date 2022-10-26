@@ -1,55 +1,55 @@
 [
     {
-        "_id": "101",
+        "id": "01",
         "rating": 4.5,
         "total_student": 488,
         "title": "Web Development",
-        "price": "$ 40",
+        "price": "40",
         "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-559460119.jpg",
         "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
     },
     {
-        "_id": "102",
+        "id": "02",
         "rating": 4.7,
         "total_student": 320,
         "title": "App Development",
-        "price": "$ 60",
+        "price": "60",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKiQVdWWUbbMybbulfUUvGfe1I865qtMu5Q&usqp=CAU",
         "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
     },
     {
-        "_id": "103",
+        "id": "03",
         "rating": 4.3,
         "total_student": 370,
         "title": "UI/UX Design",
-        "price": "$ 30",
+        "price": "30",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPxMIWwj5UcHyRqOjLxm5U262UpCr4wxexvA&usqp=CAU",
         "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
     },
     {
-        "_id": "104",
+        "id": "04",
         "rating": 4.0,
         "total_student": 520,
         "title": "Wordpress Development",
-        "price": "$ 35",
+        "price": "35",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSHXhQ-_WpFsdEWg20TOyyg28Hk_Sl3ohQOg&usqp=CAU",
         "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
     },
     {
-        "_id": "105",
+        "id": "05",
         "rating": 4.6,
         "total_student": 210,
         "title": "Machine Learning",
-        "price": "$ 70",
+        "price": "70",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu4Tmt8qt_vFEqIFkcbOfvjFRMWrClfwQhsQ&usqp=CAU",
         "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
     },
     {
-        "_id": "106",
+        "id": "06",
         "rating": 4.3,
         "total_student": 310,
         "title": "Basic Programming",
-        "price": "$ 40",
+        "price": "40",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNMWO1sP1-6sFDigKMP0vOiaLhS2Oo_GmORA&usqp=CAU",
         "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
     }
