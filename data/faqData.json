@@ -1,0 +1,27 @@
+[
+    {
+        "id": "01",
+        "question": "What do app developers do?",
+        "answer": "A mobile app developer uses programming languages and development skills to create, test, and develop applications on mobile devices. They work in popular operating system environments like iOS and Android and often take into account UI and UX principles when creating applications."
+    },
+    {
+        "id": "02",
+        "question": "Is coding required for web development?",
+        "answer": "As the core of web development work involves writing code, Web Developers must have advanced programming skills, and be fluent in a number of programming languages and libraries."
+    },
+    {
+        "id": "03",
+        "question": "What is UI and UX with example?",
+        "answer": "What's the difference between UI and UX? At the most basic level, UI is made up of all the elements that enable someone to interact with a product or service. UX, on the other hand, is what the individual interacting with that product or service takes away from the entire experience."
+    },
+    {
+        "id": "04",
+        "question": "What do app developers do?",
+        "answer": "A mobile app developer uses programming languages and development skills to create, test, and develop applications on mobile devices. They work in popular operating system environments like iOS and Android and often take into account UI and UX principles when creating applications."
+    },
+    {
+        "id": "05",
+        "question": "Why do we use machine learning?",
+        "answer": "Simply put, machine learning allows the user to feed a computer algorithm an immense amount of data and have the computer analyze and make data-driven recommendations and decisions based on only the input data."
+    }
+]
