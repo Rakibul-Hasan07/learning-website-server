@@ -6,7 +6,7 @@
         "title": "Web Development",
         "price": "40",
         "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-559460119.jpg",
-        "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
+        "details": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your web dev skills, try it out. Web dev is a fun, creative experience.Web development is amongst those jobs that have a significantly higher job satisfaction rate. There are several reasons that web developers are so satisfied with their jobs – salary, work-life balance, and flexibility, to name a few.Technology changes quickly, which means Web Developers have to stay on top of any important new programming language, web development software, or trend. Even coding experts with advanced computer science de"
     },
     {
         "id": "02",
@@ -15,7 +15,7 @@
         "title": "App Development",
         "price": "60",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKiQVdWWUbbMybbulfUUvGfe1I865qtMu5Q&usqp=CAU",
-        "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
+        "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. App development assists in reaching marketplaces via Blackberry, Google Play, Apple App Store, and other internet marketplaces also through social media sites. Additionally, apps hold the caliber to mail data to clients, evaluation of functions, coupon codes, and force announcements.App development is in high demand. This is why companies are willing to pay good money for the right developer. Developers, on average, make somewhere around $73,953 a year. And, as the number of people hooked on a smartphone increases, the concurrent demand for developers is only going to increase as well.More people are making online purchases using the smartphone and especially after covid Amazon has seen a record high growth in online sales. And because of this the app development as a career option is very good because it has a high demand as more people are using apps for various Reasons more than ever."
     },
     {
         "id": "03",
@@ -24,7 +24,7 @@
         "title": "UI/UX Design",
         "price": "30",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPxMIWwj5UcHyRqOjLxm5U262UpCr4wxexvA&usqp=CAU",
-        "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
+        "details": "User interface design or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing usability and the user experience.User experience (UX) design is the process design teams use to create products that provide meaningful and relevant experiences to users. UX design involves the design of the entire process of acquiring and integrating the product, including aspects of branding, design, usability and function.The UI and UX Design help to win the consumers' confidence and make them use your application or website providing them what they are looking for. The number of consumers you are getting on your website/application can measure the success of the great UI and UX.UI/UX is one of the top skills in demand right now! Demand for UX.designers is rising. UX design was ranked by both Glassdoor and LinkedIn as one of the top 50 jobs to have in 2022 and as one of the top five most in-demand skills for 2020."
     },
     {
         "id": "04",
@@ -33,7 +33,7 @@
         "title": "Wordpress Development",
         "price": "35",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSHXhQ-_WpFsdEWg20TOyyg28Hk_Sl3ohQOg&usqp=CAU",
-        "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
+        "details": "WordPress is a framework of PHP & CMS platform to build rich & fully functional websites. Either it is a small business or an eCommerce website. It is safe, secure, self-hosted, deploy, simple to install and update.Being a CMS, wordpress is fairly simple. If you want to create simple blog cum website with wordpress then that’s easy. However, there are some things beyond drag & drop which not everyone can do. For that you need wordpress developers and that is called wordpress development.While WordPress started as a blogging tool, it has evolved into a powerful website builder and a robust content management system (CMS). The best part about WordPress is that it's easy to use and flexible enough to make different types of websites. That's the main reason why WordPress has grown so much in popularity."
     },
     {
         "id": "05",
@@ -42,7 +42,7 @@
         "title": "Machine Learning",
         "price": "70",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu4Tmt8qt_vFEqIFkcbOfvjFRMWrClfwQhsQ&usqp=CAU",
-        "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
+        "details": "Machine learning is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks. It is seen as a part of artificial intelligence.Machine learning is important because it gives enterprises a view of trends in customer behavior and business operational patterns, as well as supports the development of new products. Many of today's leading companies, such as Facebook, Google and Uber, make machine learning a central part of their operations.With a background in machine learning, you can get a high-paying job as a Machine Learning Engineer, Data Scientist, NLP Scientist, Business Intelligence Developer, or a Human-Centered Machine Learning Designer."
     },
     {
         "id": "06",
@@ -51,6 +51,6 @@
         "title": "Basic Programming",
         "price": "40",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNMWO1sP1-6sFDigKMP0vOiaLhS2Oo_GmORA&usqp=CAU",
-        "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site."
+        "details": "BASIC programming has a long history as the computer programming language of choice for beginners. It has been used since the 1960s to simplify communication between the programmer and the computer. This computer language has been widely imitated and altered, and it is currently most well-known as Visual Basic.It helps you streamline processes and solve problems quickly. Additionally, coding skills are highly demanded in various industries, including technology, finance, and healthcare. Learning to code can open up career opportunities and advancements. If you have basic coding skills, it will be easier to catch up by learning new programming languages and new technologies. It will also give you a lot of work flexibility, as many digital tech jobs can be done remotely. This means that whatever changes lie ahead, coding skills can help you adapt more easily."
     }
 ]
